@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Roll And Play</string>
+    <string name="jogar">JOGAR</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="textview">TextView</string>
+    <!-- <string name="todo">TODO</string>-->
+    <!--    <string name="todo">TODO</string>-->
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastre_se">CADASTRE-SE</string>
+    <string name="usu_rio">Usuário:</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="senha">Senha:</string>
+    <string name="cofirmar_email">Cofirmar Email:</string>
+    <string name="email">Email:</string>
+    <string name="user">User</string>
+    <string name="password">password</string>
+    <!--    <string name="password">password</string>-->
+    <string name="cadastraemail">cadastraemail</string>
+    <string name="confirmaemail">confirmaemail</string>
+    <!--    <string name="todo">TODO</string>-->
+    <!--    <string name="entrar">Entrar</string>-->
+    <!--    <string name="usu_rio">Usuário:</string>-->
+    <!--    <string name="senha">Senha:</string>-->
+    <string name="loginpassword">Password</string>
+    <string name="loginuser">User</string>
+    <!--    <string name="todo">TODO</string>-->
+    <string name="eu_sou">Eu sou...</string>
+    <string name="personagem">Personagem</string>
+    <string name="mestre">Mestre</string>
+    <string name="imglivro">imgLivro</string>
+    <string name="todo">TODO</string>
+    <string name="codigo">Codigo</string>
+    <!--    <string name="todo">TODO</string>-->
+    <!--    <string name="entrar">Entrar</string>-->
+</resources>
