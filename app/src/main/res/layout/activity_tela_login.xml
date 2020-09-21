@@ -33,14 +33,15 @@
         app:layout_constraintVertical_bias="0.34" />
 
     <TextView
-        android:id="@+id/lblUsuario"
+        android:id="@+id/lblEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginTop="308dp"
-        android:text="@string/usu_rio"
+        android:text="@string/emailLogin"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Email" />
 
     <TextView
         android:id="@+id/textView3"
@@ -66,16 +67,16 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/txtUsuario"
+        android:id="@+id/txtEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="32dp"
+        android:layout_marginStart="44dp"
         android:layout_marginTop="296dp"
         android:autofillHints=""
         android:ems="10"
-        android:hint="@string/loginuser"
+        android:hint="email"
         android:inputType="textPersonName"
-        app:layout_constraintStart_toEndOf="@+id/lblUsuario"
+        app:layout_constraintStart_toEndOf="@+id/lblEmail"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button

@@ -13,7 +13,7 @@
     <string name="senha">Senha:</string>
     <string name="cofirmar_email">Cofirmar Email:</string>
     <string name="email">Email:</string>
-    <string name="user">User</string>
+   <!-- <string name="user">User</string>-->
     <string name="password">password</string>
     <!--    <string name="password">password</string>-->
     <string name="cadastraemail">cadastraemail</string>
@@ -31,6 +31,14 @@
     <string name="imglivro">imgLivro</string>
     <string name="todo">TODO</string>
     <string name="codigo">Codigo</string>
+    <string name="user">User</string>
+    <string name="emailConf">Email</string>
+    <string name="emailConf2">Email</string>
+    <string name="senhaConf">Senha</string>
+    <string name="senhaConf2">Senha</string>
+    <string name="emailLogin">Email</string>
+    <string name="rp">TODO</string>
+    <string name="dice">TODO</string>
     <!--    <string name="todo">TODO</string>-->
     <!--    <string name="entrar">Entrar</string>-->
 </resources>
